@@ -2,7 +2,8 @@ package company.amazon;
 
 /**
  * Given a linked list, swap every two adjacent nodes and return its head.
- * You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)
+ * You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be
+ * changed.)
  *
  * Input: head = [1,2,3,4]
  * Output: [2,1,4,3]
@@ -25,7 +26,7 @@ public class SwapPairs {
         return temp.next;
     }
 
-    public class ListNode {
+    public static class ListNode {
         int val;
         ListNode next;
 
