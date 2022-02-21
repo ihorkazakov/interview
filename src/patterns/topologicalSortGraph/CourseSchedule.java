@@ -1,4 +1,4 @@
-package patterns.topologicalSort_graph;
+package patterns.topologicalSortGraph;
 
 import java.util.*;
 

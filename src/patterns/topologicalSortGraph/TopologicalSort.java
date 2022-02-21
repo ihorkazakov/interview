@@ -1,6 +1,5 @@
-package patterns.topologicalSort_graph;
+package patterns.topologicalSortGraph;
 
-import javax.swing.*;
 import java.util.*;
 
 /**
