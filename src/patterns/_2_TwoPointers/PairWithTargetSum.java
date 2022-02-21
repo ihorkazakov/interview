@@ -1,4 +1,4 @@
-package patterns.twoPointers;
+package patterns._2_TwoPointers;
 
 /**
  * Given an array of sorted numbers and a target sum, find a pair in the

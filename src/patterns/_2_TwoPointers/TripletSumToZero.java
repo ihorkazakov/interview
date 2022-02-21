@@ -1,4 +1,4 @@
-package patterns.twoPointers;
+package patterns._2_TwoPointers;
 
 import java.util.*;
 

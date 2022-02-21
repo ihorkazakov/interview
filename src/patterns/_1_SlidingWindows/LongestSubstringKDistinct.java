@@ -1,4 +1,4 @@
-package patterns.slidingWindows;
+package patterns._1_SlidingWindows;
 
 import java.util.HashMap;
 import java.util.Map;

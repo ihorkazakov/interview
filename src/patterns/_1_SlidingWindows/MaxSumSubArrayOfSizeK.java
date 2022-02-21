@@ -1,4 +1,4 @@
-package patterns.slidingWindows;
+package patterns._1_SlidingWindows;
 
 /**
  * Given an array of positive numbers and a positive number ‘k,’ find the

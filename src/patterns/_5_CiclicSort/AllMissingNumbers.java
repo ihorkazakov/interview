@@ -1,4 +1,4 @@
-package patterns.ciclicSort;
+package patterns._5_CiclicSort;
 
 import java.util.ArrayList;
 import java.util.List;
