@@ -15,7 +15,6 @@ public class KthLargestElementInAnArray {
 
         for (int i = 0; i < k; i++) {
             minHeap.add(nums[i]);
-            System.out.println(minHeap.peek());
         }
 
         for (int i = k; i < nums.length; i++) {
