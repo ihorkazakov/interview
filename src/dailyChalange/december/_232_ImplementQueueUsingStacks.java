@@ -1,4 +1,4 @@
-package dailyChalange._12_december;
+package dailyChalange.december;
 
 import java.util.Stack;
 
