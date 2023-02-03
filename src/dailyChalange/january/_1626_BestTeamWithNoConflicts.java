@@ -26,7 +26,7 @@ public class _1626_BestTeamWithNoConflicts {
 		}
 
 		// Sort in ascending order of score and then by age.
-		Arrays.sort(ageScorePair, (a,b) -> a[0] == b[0] ? a[1]-b[1] : a[0]-b[0]);
+		Arrays.sort(ageScorePair, (a, b) -> a[0] == b[0] ? a[1] - b[1] : a[0] - b[0]);
 
 		int highestAge = 0;
 		for (int i : ages) {
